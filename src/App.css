@@ -36,3 +36,81 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: rgb(194, 253, 255);
+  font-family: arial;
+}
+
+#conteiner{
+  background-color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#header{
+
+}
+
+#titrebuttons{
+  text-align: center;
+}
+
+#button1{
+   width: 150px;
+   height: 75px;
+   margin-top: 20px;
+   margin-left: 225px;
+}
+
+#button2{
+  width: 150px;
+  height: 75px;
+  margin-top: 20px;
+  margin-left: 275px;
+}
+
+#button3{
+  width: 150px;
+  height: 75px;
+  margin-top: 20px;
+  margin-left: 325px;
+}
+
+#main{
+  width: 400px;
+  height: 320px;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 525px;
+}
+
+#nom1{
+  float: right;
+  margin-right: 50px;
+}
+
+#prenom1{
+  float: left;
+  margin-left: 50px;
+}
+
+#footer{
+  width: 1200px;
+  height: 120px;
+  border: 1px solid black;
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 125px;
+}
+
+#button5{
+  width: 110px;
+  height: 40px;
+  margin-top: 10px;
+  margin-left: 675px;
+}
+
